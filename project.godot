@@ -10,8 +10,8 @@ config_version=5
 
 [application]
 
-config/name="first game"
-run/main_scene="uid://5xa8hgq70e1p"
+config/name="First Game"
+run/main_scene="uid://boa4p1yb38v5b"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
 
